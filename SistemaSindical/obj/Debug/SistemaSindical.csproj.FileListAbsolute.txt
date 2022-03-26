@@ -1,0 +1,16 @@
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.csproj.AssemblyReference.cache
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.csproj.SuggestedBindingRedirects.cache
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.Form1.resources
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.Properties.Resources.resources
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.telas.TelaFederacao.resources
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.csproj.GenerateResource.cache
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.csproj.CoreCompileInputs.cache
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\bin\Debug\SistemaSindical.exe.config
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\bin\Debug\SistemaSindical.exe
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\bin\Debug\SistemaSindical.pdb
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.exe
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.pdb
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.telas.TelaSindicato.resources
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.telas.TelaCadastroSindicato.resources
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.telas.TelaCadastroSocio.resources
+C:\Aprendendo c#\SistemaSindical\SistemaSindical\obj\Debug\SistemaSindical.telas.TelaSocio.resources
